@@ -1,0 +1,66 @@
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\UnityEditor.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\UnityEngine.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\nunit.framework.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp.dll
+C:\Users\Lucas\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Desktop\Asteroid Prospector\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\UnityEditor.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\UnityEngine.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\nunit.framework.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Asteroid Prospector\obj\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\UnityEditor.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\UnityEngine.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\nunit.framework.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\UnityEditor.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\UnityEngine.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\nunit.framework.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\Explorer\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\UnityEditor.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\UnityEngine.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\nunit.framework.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp.dll
+C:\Users\PIBIC\Documents\GitHub\UnityGames\Explorer\Unity Project\Windows\Asteroid Prospector\obj\Debug\Assembly-CSharp.pdb
